@@ -5,7 +5,7 @@ chardet==3.0.4
 docopt==0.6.2
 easywatch==0.0.5
 idna==2.9
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 pathtools==0.1.2
 requests==2.23.0
